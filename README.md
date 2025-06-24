@@ -12,10 +12,12 @@ This project explores the relationship between **Bitcoin market sentiment** (Fea
 ### 1. Historical Trader Data (Hyperliquid)
 - Contains detailed trading records.
 - **Columns include**: 'Account', 'Coin', 'Execution Price', 'Size Tokens', 'Size USD', 'Side', 'Timestamp IST', 'Start Position', 'Direction', 'Closed PnL', 'Fee', etc.
+- **Link for Dataset**: 'https://drive.google.com/file/d/1TOT1pH4Q8QbyzPMVgK-z7WXmcLGZT-7a/view?usp=drive_link'
 
 ### 2. Bitcoin Market Sentiment (Fear & Greed Index)
 - Daily sentiment classification as either **Fear** or **Greed**.
 - **Columns include**: 'date', 'value', 'classification'
+- **Link for Dataset**: 'https://drive.google.com/file/d/1oflwMNio13uwOlHqs_YIUSQkR9Ti0JF5/view?usp=drive_link'
 
 ---
 
