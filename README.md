@@ -12,12 +12,12 @@ This project explores the relationship between **Bitcoin market sentiment** (Fea
 ### 1. Historical Trader Data (Hyperliquid)
 - Contains detailed trading records.
 - **Columns include**: 'Account', 'Coin', 'Execution Price', 'Size Tokens', 'Size USD', 'Side', 'Timestamp IST', 'Start Position', 'Direction', 'Closed PnL', 'Fee', etc.
-- **Link for Dataset**: 'https://drive.google.com/file/d/1TOT1pH4Q8QbyzPMVgK-z7WXmcLGZT-7a/view?usp=drive_link'
+- **Link for Dataset**: https://drive.google.com/file/d/1TOT1pH4Q8QbyzPMVgK-z7WXmcLGZT-7a/view?usp=drive_link
 
 ### 2. Bitcoin Market Sentiment (Fear & Greed Index)
 - Daily sentiment classification as either **Fear** or **Greed**.
 - **Columns include**: 'date', 'value', 'classification'
-- **Link for Dataset**: 'https://drive.google.com/file/d/1oflwMNio13uwOlHqs_YIUSQkR9Ti0JF5/view?usp=drive_link'
+- **Link for Dataset**: https://drive.google.com/file/d/1oflwMNio13uwOlHqs_YIUSQkR9Ti0JF5/view?usp=drive_link
 
 ---
 
@@ -55,7 +55,7 @@ This project explores the relationship between **Bitcoin market sentiment** (Fea
 ## Results
 
 - Achieved good accuracy in classifying Fear/Greed sentiment based on trader behavior.
-- Identified that **Closed PnL**, 'Side', and 'Fee' had strong influence on sentiment predictions.
+- Identified that **Closed PnL**, 'Side', and 'Fee' had a strong influence on sentiment predictions.
 - Feature importance and confusion matrix supported model reliability.
 
 ---
@@ -78,7 +78,7 @@ This project explores the relationship between **Bitcoin market sentiment** (Fea
 
 ## Files Included
 
-- 'trader_data.csv' – Historical trade data (raw)
-- 'sentiment_data.csv' – Daily market sentiment (raw)
+- 'historical_data.csv' – Historical trade data (raw)
+- 'fear_greed_index.csv' – Daily market sentiment (raw)
 - 'trader-behavior-insights.ipynb' – Main notebook with code and analysis
 - 'README.md' – Project documentation
