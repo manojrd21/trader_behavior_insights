@@ -78,7 +78,7 @@ This project explores the relationship between **Bitcoin market sentiment** (Fea
 
 ## Files Included
 
-- 'historical_data.csv' – Historical trade data (raw)
-- 'fear_greed_index.csv' – Daily market sentiment (raw)
+- 'historical_data.csv' – Historical Trade Data (raw)
+- 'fear_greed_index.csv' – Bitcoin Market Sentiment (raw)
 - 'trader-behavior-insights.ipynb' – Main notebook with code and analysis
 - 'README.md' – Project documentation
